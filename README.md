@@ -10,7 +10,7 @@
 ## Adversarial Attack
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-| 2025.03 | **One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image** |   arXiv     | [link](https://arxiv.org/abs/2504.02132) |  -  |
+| 2025.04 | **One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image** |   arXiv     | [link](https://arxiv.org/abs/2504.02132) |  -  |
 | 2025.03 | **Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation** |   arXiv     | [link](https://arxiv.org/abs/2503.06254) |  -  |
 | 2025.02 | **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | -|
 
